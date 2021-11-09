@@ -1,4 +1,3 @@
-const { describe } = require('yargs')
 const yargs = require('yargs')
 const crud = require('./crud')
 
